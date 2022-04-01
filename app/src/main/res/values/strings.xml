@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+    <string name="name_app">QUOTIFY</string>
+    <string name="quote">Genius is one percent inspiration and ninety-nine percent perspiration.</string>
+    <string name="bruce_wayne">Bruce Wayne</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+</resources>
